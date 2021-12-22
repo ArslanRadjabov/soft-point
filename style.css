@@ -40,6 +40,9 @@ body{
 .login-list{
     width: 204px;
 }
+.one{
+    background-color: #F44545;
+}
 .link-login{
     font-weight: 500;
     font-size: 18px;
@@ -208,10 +211,38 @@ body{
     border-radius: 10px;
     margin-bottom: 30px;
 }
+.solution-link{
+    background-color: #282323;
+    padding: 15px 40px;
+    color: #FFFFFF;
+    text-decoration: none;
+    border-radius: 10px;
+}
 .solu-img-box{
     padding: 10px;
     width: 75px;
     height: 75px;
     border-radius: 10px;
     margin-bottom: 25px;
+    background-color: #F44545;
+    box-shadow: 1px 5px 30px rgba(215, 21, 21, 0.5);
+}
+.solution-title{
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 67px;
+}
+.solution-text-1{
+    font-size: 18px;
+    line-height: 160%;
+    color: #021206;
+    margin-bottom: 40px;
+}
+.ask-link{
+    color: tomato;
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 160%;
+    padding-left:20px ;
 }
